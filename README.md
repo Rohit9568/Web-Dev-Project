@@ -1,6 +1,6 @@
 # Zaika - Food Delivery Platform 🚀
 
-![Zaika](./logos/Screenshot.png)
+
 
 ## Overview
 
